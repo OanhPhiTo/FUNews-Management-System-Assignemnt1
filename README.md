@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2026 by oanhtp](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml/badge.svg)](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2026 by oanhtp](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml)
 
 # FUNewsManagementSystem — Frontend Quản trị ReactJS
 
