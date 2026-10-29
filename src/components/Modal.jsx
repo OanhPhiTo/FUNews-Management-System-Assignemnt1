@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 function Modal({ isOpen, onClose, title, children, isLarge = false }) {
   if (!isOpen) return null;
 

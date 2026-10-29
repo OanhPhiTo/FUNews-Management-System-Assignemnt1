@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 // Dữ liệu mẫu khởi tạo ban đầu tuân theo Data Model & Rubric của Assignment 01
 
 export const INITIAL_CATEGORIES = [

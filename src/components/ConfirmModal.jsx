@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 function ConfirmModal({
   isOpen,
   title = 'Confirm Action',

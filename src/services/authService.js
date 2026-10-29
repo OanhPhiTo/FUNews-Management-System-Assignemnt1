@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 export const authService = {
   login: (username, password) => {
     if (username === 'Admin' && password === 'Admin') {

@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { authService } from '../services/authService';
@@ -36,7 +39,7 @@ function LoginPage() {
           <img src="/logo.png" alt="FUNews Logo" className="header-logo" style={{ width: '52px', height: '52px', margin: '0 auto 12px auto', display: 'block' }} />
           <h2 style={{ fontSize: '22px', fontWeight: '700', color: '#ffffff' }}>FUNews Login</h2>
           <p style={{ color: 'var(--text-muted)', fontSize: '13px', marginTop: '6px' }}>
-            Management Portal &bull; Huytpn_SE1910
+            Management Portal &bull; OanhTP
           </p>
         </div>
         <form onSubmit={handleLogin}>

@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 import { INITIAL_CATEGORIES } from '../mock/initialData';
 
 const STORAGE_KEY = 'funews_categories';

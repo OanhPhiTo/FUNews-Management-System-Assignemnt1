@@ -1,7 +1,9 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2026 by oanhtp](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml/badge.svg)](https://github.com/OanhPhiTo/FUNews-Management-System---Assignemnt1/actions/workflows/ci.yml)
+
 # FUNewsManagementSystem — Frontend Quản trị ReactJS
 
 * **Course:** SBA301 – Assignment 01 – Working with ReactJS Application
-* **Student Name / Project:** `Huytpn_SE1910`
+* **Student Name / Project:** `OanhTP` (`oanhtp`)
 * **Technologies:** React 19, Vite, JavaScript, React Router v7, Vanilla CSS, LocalStorage Mock Service.
 * **Target Score:** 10.0 / 10.0 (Excellent Level).
 

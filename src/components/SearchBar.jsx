@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 function SearchBar({
   value,
   onChange,

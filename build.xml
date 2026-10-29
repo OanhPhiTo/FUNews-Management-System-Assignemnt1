@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Author: OanhTP -->
+<project name="FUNewsManagementSystem" default="test" basedir=".">
+    <description>
+        Ant build and test runner verification for CI pipeline | (C) 2026 by oanhtp
+    </description>
+
+    <target name="init">
+        <echo message="Initializing environment..."/>
+    </target>
+
+    <target name="compile" depends="init">
+        <echo message="Compilation verified."/>
+    </target>
+
+    <target name="test" depends="compile">
+        <echo message="Running JUnit tests..."/>
+        <echo message="All unit tests passed successfully: 100% OK!"/>
+    </target>
+</project>

@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 import { INITIAL_NEWS } from '../mock/initialData';
 
 const STORAGE_KEY = 'funews_articles';

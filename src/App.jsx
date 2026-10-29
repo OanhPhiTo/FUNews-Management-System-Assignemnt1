@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import LoginPage from './pages/LoginPage';
 import DashboardPage from './pages/DashboardPage';

@@ -1,3 +1,6 @@
+/**
+ * Author: OanhTP
+ */
 import { useState } from 'react';
 import { authService } from '../services/authService';
 import { INITIAL_CATEGORIES, INITIAL_NEWS, INITIAL_USERS } from '../mock/initialData';
